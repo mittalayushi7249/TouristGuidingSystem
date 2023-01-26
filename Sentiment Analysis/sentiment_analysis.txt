@@ -1,0 +1,7 @@
+
+
+This is a link of sentiment_analysis.h5 -> https://drive.google.com/file/d/11OPvzGNZ6ltANj6sdNdw8eyu3AF0REbA/view?usp=sharing
+
+First download the sentiment_analysis.h5 from given link.
+Then copy it in "mysite/analyzer" folder.
+Then remove sentiment_analysis.txt file.

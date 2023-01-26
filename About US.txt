@@ -1,0 +1,20 @@
+::: ABOUT TOURGY :::
+
+- A Web based application designed and developed using Django framework of Python programming language. Aim of the project is to make a web portal that can be used to guide / help people for getting knowledge about places before they visit it. 
+
+Some Exciting Features that you will see in this projects are:
+	> Viewers can see top 10 places in the screen
+	> Viewers can get the reviews of the place from the comment section of the place
+	> user can Search the place by its name or by searching the city name
+	> User will get similar place recommendations too.
+	> User's feedback gets converted to ratings via sentiment analysis. 
+
+
+
+::: CONTACT US :::
+
+- Students of MIET Merrut, CSE BRANCH. 
+
+> Tanuja : tanuja.l.cse.2017@miet.ac.in
+> Tanya Joshi : tanya.joshi.cse.2017@miet.ac.in
+> Ayushi Mittal  : ayushi.mittal.cse.2017@miet.ac.in
